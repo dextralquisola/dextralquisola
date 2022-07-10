@@ -1,6 +1,6 @@
 [![MasterHead](./banner_1.png)](https://https://github.com/dextralquisola)
 <h1 align="center">Hi 👋, I'm Dexter Jay Alquisola</h1>
-<h3 align="center">A passionate mobile app developer from Philippines</h3>
+<h3 align="center">A passionate mobile app developer from Philippines</h3>:philippines:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dextralquisola&label=Profile%20views&color=0e75b6&style=flat" alt="dextralquisola" /> </p>
 
