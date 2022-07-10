@@ -1,4 +1,4 @@
-[![MasterHead](./banner_1.png)](https://github.com/dextralquisola)
+[![MasterHead](./banner.png)](https://github.com/dextralquisola)
 <h1 align="center">Hi 👋, I'm Dexter Jay Alquisola</h1>
 <h3 align="center">A passionate mobile app developer from Philippines :philippines: </h3>
 
