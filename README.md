@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Chat app using flutter and socket io
+- 🌱 I’m currently learning flutter
+- 😄 Pronouns: He/Him
+
 <!--
 **dextralquisola/dextralquisola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
