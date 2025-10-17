@@ -38,10 +38,10 @@
 
 ## 📊 GitHub Stats  
 
-<div align="left" style="display: inline-block">
-  
-![Dexter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dextralquisola&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dextralquisola&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+<div>
+
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=dextralquisola&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dextralquisola&layout=compact&theme=tokyonight&hide_border=true&border_radius=12">
 
 </div>
 
