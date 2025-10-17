@@ -1,19 +1,66 @@
-[![MasterHead](./banner.png)](https://github.com/dextralquisola)
-<h1 align="center">Hi 👋, I'm Dexter Jay Alquisola</h1>
-<h3 align="center">A passionate mobile app developer from Philippines :philippines: </h3>
+<!--
+👋 Hi, welcome to my GitHub profile!
+-->
+
+# 👋 Hi, I'm Dexter Jay Alquisola  
+
+💻 **Backend Developer** | 📱 **Mobile App Developer**  
+🚀 Passionate about building scalable APIs and mobile applications.
+
+---
+
+## 🧠 About Me  
+
+- 🌱 Currently working as a **Node.js Developer**  
+- 🧩 Skilled in building backend systems and cross-platform mobile apps  
+- 🛠️ Exploring cloud integrations with **Firebase** and **Supabase**
+
+---
+
+## 🧰 Tech Stack  
+
+### 💻 Languages & Frameworks  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### ⚙️ Tools & Platforms  
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
   
-<!--- (<p align="left"> <img src="https://komarev.com/ghpvc/?username=dextralquisola&label=Profile%20views&color=0e75b6&style=flat" alt="dextralquisola" /> </p>) -->
+![Dexter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DexterJayAlquisola&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DexterJayAlquisola&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
 
-- 🌱 I’m currently learning **Flutter, NodeJs**
+</div>
 
-- 💬 Ask me about **Flutter, Dart, NodeJs,**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🔗 Connect with Me  
+
 <p align="left">
-<a href="https://twitter.com/dextralquisola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dextralquisola" height="30" width="40" /></a>
-<a href="https://instagram.com/dextralquisola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dextralquisola" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dextralquisola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dextralquisola" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+⭐️ From [Dexter Jay Alquisola](https://github.com/DexterJayAlquisola)
