@@ -40,8 +40,8 @@
 
 <div align="center">
   
-![Dexter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DexterJayAlquisola&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DexterJayAlquisola&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+![Dexter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dextralquisola&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dextralquisola&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
 
 </div>
 
@@ -50,13 +50,13 @@
 ## 🔗 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/dextralquisola/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your-instagram" target="_blank">
+  <a href="https://www.instagram.com/dextralquisola/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <a href="https://x.com/dextralquisola" target="_blank">
     <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
