@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<div align="left">
   
 ![Dexter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dextralquisola&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dextralquisola&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
